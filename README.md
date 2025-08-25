@@ -38,6 +38,7 @@ Here is a summary of the shortcuts included in this configuration:
 | `Ctrl + Alt + ]`      | Suspend System        | `systemctl suspend`        |
 | `Ctrl + Alt + \`      | Power Off System      | `poweroff`                 |
 | `Ctrl + Alt + [`      | Reset Display Manager | `systemctl restart gdm3`   |
+| `Ctrl + Alt + '`	| Reset Network Service | `systemctl restart NetworkManager` |
 
 Going to add way more shortcuts in the future stay tuned !
 
