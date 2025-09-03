@@ -36,7 +36,7 @@ Here is a summary of the shortcuts included in this configuration:
 | --------------------- | --------------------- | --------------------------	|
 | `Super + E`           | Browse Files          | `nautilus`	|
 | `Ctrl + Alt + ]`      | Suspend System        | `systemctl suspend`	|
-| `Ctrl + Alt + \`      | Power Off System      | `poweroff`	|
+| `Ctrl + Alt + p`      | Power Off System      | `poweroff`	|
 | `Ctrl + Alt + [`      | Reset Display Manager | `systemctl restart gdm3` |
 | `Ctrl + Alt + '`	| Reset Network Service	| `systemctl restart NetworkManager` |
 | `Ctrl + Alt + r`	| Restart the System	| `systemctl Reboot`	|
